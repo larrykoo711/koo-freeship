@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <!-- FreeShip - Origami Wave Design -->
+  <!-- A sophisticated fusion of origami art and maritime elements -->
+
+  <!-- Main origami ship form - diamond shape suggesting motion -->
+  <path d="M12 3 L21 12 L12 16 L3 12 Z"
+        stroke="currentColor"
+        stroke-width="1.5"
+        fill="currentColor"
+        fill-opacity="0.08"
+        stroke-linejoin="round"/>
+
+  <!-- Central fold line for depth -->
+  <path d="M12 3 L12 16"
+        stroke="currentColor"
+        stroke-width="1.5"
+        opacity="0.3"/>
+
+  <!-- Hidden fold lines suggesting 3D structure -->
+  <path d="M3 12 L12 16 L21 12"
+        stroke="currentColor"
+        stroke-width="1"
+        stroke-dasharray="1 2"
+        opacity="0.2"/>
+
+  <!-- Wave pattern - elegant and minimal -->
+  <path d="M5 19 Q12 17 19 19"
+        stroke="currentColor"
+        stroke-width="1.3"
+        opacity="0.4"
+        fill="none"
+        stroke-linecap="round"/>
+
+  <!-- Second wave for depth -->
+  <path d="M3 21 Q12 19.5 21 21"
+        stroke="currentColor"
+        stroke-width="1"
+        opacity="0.2"
+        fill="none"
+        stroke-linecap="round"/>
+</svg>

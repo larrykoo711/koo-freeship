@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(canvas-design)",
+      "Bash(pip install:*)",
+      "Bash(uv venv:*)",
+      "Bash(source:*)",
+      "Bash(uv pip install:*)",
+      "Bash(python generate_icons.py:*)",
+      "Bash(node generate-icons.js:*)",
+      "Bash(pnpm dev)",
+      "Bash(git init:*)",
+      "WebFetch(domain:clerk.com)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
