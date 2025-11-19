@@ -234,7 +234,7 @@ import { ThemeProvider } from "next-themes"
 - [Clerk](https://clerk.com/) - 优秀的认证解决方案
 - [Vercel](https://vercel.com/) - 完美的部署平台
 
-## ⭐ Star History
+## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=larrykoo711/koo-freeship&type=date&legend=top-left)](https://www.star-history.com/#larrykoo711/koo-freeship&type=date&legend=top-left)
 

@@ -234,7 +234,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for version update history
 - [Clerk](https://clerk.com/) - Excellent authentication solution
 - [Vercel](https://vercel.com/) - Perfect deployment platform
 
-## ⭐ Star History
+## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=larrykoo711/koo-freeship&type=date&legend=top-left)](https://www.star-history.com/#larrykoo711/koo-freeship&type=date&legend=top-left)
 
